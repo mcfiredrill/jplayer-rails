@@ -1,4 +1,4 @@
-require "jplayer/rails/version"
+require "jplayer-rails/version"
 
 module Jplayer
   module Rails
