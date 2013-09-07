@@ -1,4 +1,4 @@
-# Jplayer::Rails
+# jplayer-rails
 
 jplayer for rails asset pipeline
 
