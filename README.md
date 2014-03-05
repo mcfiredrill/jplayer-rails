@@ -3,6 +3,7 @@
 jplayer for rails asset pipeline
 
 http://www.jplayer.org/
+
 https://github.com/happyworm/jPlayer
 
 ## Installation
