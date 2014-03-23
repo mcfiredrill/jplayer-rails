@@ -1,5 +1,10 @@
 # jplayer-rails
 
+## HMMMM
+
+Now that [![rails-assets.org](http://rails-assets.org)] exists, maybe I will just use that and abandon this
+project...
+
 jplayer for rails asset pipeline
 
 http://www.jplayer.org/
