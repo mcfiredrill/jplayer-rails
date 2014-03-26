@@ -25,8 +25,8 @@ Or install it yourself as:
 ## Usage
 
 There are two basic options to setup the player. 
-# You can just include the jplayer into your project and do the reset in your project. 
-# You can use the built-in skin and player to get up and running quickly.
+- You can just include the jplayer into your project and do the reset in your project. 
+- You can use the built-in skin and player to get up and running quickly.
 
 ### Full Control (Option 1)
 
