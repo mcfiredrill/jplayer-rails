@@ -24,7 +24,11 @@ Or install it yourself as:
 
 ## Usage
 
-### Full Control
+There are two basic options to setup the player. 
+# You can just include the jplayer into your project and do the reset in your project. 
+# You can use the built-in skin and player to get up and running quickly.
+
+### Full Control (Option 1)
 
 - Add to your application.js
 - This just provides you with jplayer itself.
@@ -33,7 +37,7 @@ Or install it yourself as:
 //= require 'jquery.jplayer'
 ```
 
-### Simple
+### Simple (Option 2)
 
 To Add circle player by default:
 
