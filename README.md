@@ -92,6 +92,18 @@ To Add circle player by default:
   Player 2
   <div class="add-jplayer" data-m4a="http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a" data-oga="http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg"></div>
 ```
+## Troubleshooting
+
+- My player shows up, but it does not play.
+
+Please make sure that you include this code in your body:
+
+```
+  <!-- Needed to hold the players -->
+  <div id="simple-jplayer"></div>
+```
+It is needed for the player to actually work.
+
 
 ## Contributing
 
