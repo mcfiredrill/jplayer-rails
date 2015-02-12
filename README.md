@@ -1,5 +1,6 @@
 # jplayer-rails
 
+
 jplayer for rails asset pipeline
 
 ![CirclePlayer](https://github.com/maboa/circleplayer/raw/master/screencaps/circleplayer.png)
